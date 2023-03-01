@@ -3,3 +3,9 @@ updated version of the code
 
 
 updated version from a branch owner branch1
+<<<<<<< Updated upstream
+=======
+
+
+stash changes testing commits and reverts
+>>>>>>> Stashed changes
